@@ -1,6 +1,6 @@
 import React from "react";
 
-function Moviecard({ movie }) {
+function MovieCard({ movie }) {
   return (
     <div className="movie">
       <div>
@@ -24,4 +24,4 @@ function Moviecard({ movie }) {
   );
 }
 
-export default Moviecard;
+export default MovieCard;
